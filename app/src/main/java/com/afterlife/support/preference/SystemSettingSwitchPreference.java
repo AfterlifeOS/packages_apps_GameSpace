@@ -13,14 +13,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.voltage.support.preferences;
+package com.afterlife.support.preference;
 
 import android.content.Context;
 import android.provider.Settings;
 import android.os.UserHandle;
 import android.util.AttributeSet;
 
-import com.voltage.support.preferences.SelfRemovingSwitchPreference;
+import com.afterlife.support.preference.SelfRemovingSwitchPreference;
 
 public class SystemSettingSwitchPreference extends SelfRemovingSwitchPreference {
 
